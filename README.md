@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1AONJrpLxMNNN52n2Iad32zHa4bMs3ROZ/view?usp=shari
 A PDF of the notebook is available on Github to view.
 https://github.com/sashupadhyaya/sql-injection-nlp-detection/blob/main/sql_injection_nlp_detection.ipynb.pdf
 
+Final Report Link in Github.
+https://github.com/sashupadhyaya/sql-injection-nlp-detection/blob/main/final_report.pdf
+
