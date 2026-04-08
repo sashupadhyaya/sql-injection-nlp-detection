@@ -4,7 +4,7 @@ Detecting SQL Injection using NLP models under obfuscation
 Final Report Link in Github.
 https://github.com/sashupadhyaya/sql-injection-nlp-detection/blob/main/final_report.pdf
 
-Due to Github not presenting the notebook properly below is a link of the notebook in Google Colab.
+If the notebook does not render correctly on GitHub, it can be viewed in Google Colab below.
 https://drive.google.com/file/d/1AONJrpLxMNNN52n2Iad32zHa4bMs3ROZ/view?usp=sharing
 
 A PDF of the notebook is available on Github to view.
